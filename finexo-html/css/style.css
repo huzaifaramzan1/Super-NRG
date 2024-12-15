@@ -127,7 +127,7 @@ a:focus {
 
 .sub_page .hero_area {
   min-height: auto;
-  background: linear-gradient(130deg, #231a6f, #0f054c);
+  background: linear-gradient(130deg, #5846fd, #0f054c);
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -273,7 +273,7 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: #00204a;
+  color: #6dacff;
 }
 
 .slider_section .detail-box h1 {
@@ -306,7 +306,7 @@ a:focus {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #00bbf0;
+  background-color: #3b00a8;
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
